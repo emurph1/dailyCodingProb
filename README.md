@@ -1,1 +1,1 @@
-# dailyCodingProb
+# Daily coding problems repository
