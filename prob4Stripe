@@ -33,7 +33,7 @@ def findPos(numL):
         print(nums[i+1] - nums[i])
         break
     #if the num is above nums[i+1]
-    elif nums[i+1] - nums[i] == 1 and nums[i+1] > 0:
+    elif nums[i+1] - nums[i] == 1 and nums[i+1] > 1:
         print(nums[i+1] + 1)
         break
     i += 1
